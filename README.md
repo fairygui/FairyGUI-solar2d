@@ -1,2 +1,2 @@
-# FairyGUI-corona
+# FairyGUI-solar2d
 
