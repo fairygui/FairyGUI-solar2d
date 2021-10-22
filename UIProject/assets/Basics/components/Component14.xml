@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="282,500" mask="n28">
+  <displayList>
+    <image id="n27" name="n27" src="es4130" fileName="images/change.png" xy="0,0"/>
+    <image id="n28" name="n28" src="gfgc8a" fileName="images/mask.png" xy="72,43" size="167,171"/>
+  </displayList>
+</component>

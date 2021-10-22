@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component size="1136,570">
+  <displayList>
+    <loader id="n3" name="n3" xy="373,96" size="89,90" url="ui://9leh0eyfwa8u2u" align="center" vAlign="middle" autoSize="true"/>
+  </displayList>
+  <transition name="t0">
+    <item time="0" type="XY" target="n3" tween="true" startValue="373,96" endValue="709,169" duration="18" path="2,0,0,12,48,285,87,1,2,336,73,334,100,0,0,1"/>
+  </transition>
+</component>
